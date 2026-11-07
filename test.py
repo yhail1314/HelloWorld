@@ -5,7 +5,7 @@ import pytest
 def test_add():
     a = 2
     b = 3
-    assert a + b == 5
+    assert a + b == 4
 
 # 用例2：判断包含
 def test_string_contains():
