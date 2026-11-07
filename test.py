@@ -15,3 +15,7 @@ def test_string_contains():
 # 用例3：预期失败示例（判断数字大于）
 def test_number_greater():
     assert 10 > 1
+
+# 用例4：判断真假
+def test_bool_true():
+    assert 9 > 10
