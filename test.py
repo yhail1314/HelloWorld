@@ -10,7 +10,7 @@ def test_add():
 # 用例2：判断包含
 def test_string_contains():
     text = "hello robot & pytest"
-    assert "pytest" in text
+    assert "pytest1" in text
 
 # 用例3：预期失败示例（判断数字大于）
 def test_number_greater():
